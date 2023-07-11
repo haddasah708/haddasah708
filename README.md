@@ -2,8 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-* Microsoft Azure SOC and SIEM 
-* Active Directory Home Lab 
+* #### [Microsoft Azure SOC and SIEM](https://github.com/haddasah708/AzureSOC)
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
